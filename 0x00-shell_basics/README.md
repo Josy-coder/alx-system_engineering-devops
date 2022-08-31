@@ -1,0 +1,2 @@
+This is where I stored the files that I used to write the executable bash scripts.
+Each file containes two lines, one containing the declaration of bash files and the next line containing the actual code for script
